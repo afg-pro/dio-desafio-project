@@ -1,5 +1,5 @@
 # dio-desafio-project1
-Desafio git/github
+Repositório criado para o desafio git/github.
 
 ##Links úteis
 [Sintaxe básica - markdown](https://www.markdownguide.org/basic-syntax/)
